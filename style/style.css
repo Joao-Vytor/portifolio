@@ -84,6 +84,7 @@ body{
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
+    transition: 1s;
 }
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
